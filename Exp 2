@@ -1,0 +1,6 @@
+name<-c("basker,kannan,sri,siri")
+age<-c("40,50,36,23")
+ls<-c(name)
+print(ls)
+ls<-c(age)
+print(ls)
